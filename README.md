@@ -2,6 +2,7 @@ Analyst Memo — Shopify App Store Insights
 Dashboard: Shopify App Store Analysis
 
 Key Insight:
+
 The Shopify App Store dataset covers 500 apps and 7.98K reviews (2018–2024), with an
 overall average rating of 4.19 — but only 24.80% of reviews receive a developer reply,
 indicating a meaningful gap in merchant support responsiveness. Productivity (4.39),
@@ -14,6 +15,7 @@ increase vs. the same period last year), signaling accelerating engagement with 
 marketplace over time.
 
 Business Impact:
+
 A 24.80% developer reply rate suggests most merchant feedback goes unanswered, which can
 erode trust and satisfaction over time — this is a direct lever for improving perceived
 support quality across the marketplace. The category rating spread (4.08–4.39) is fairly
@@ -24,6 +26,7 @@ responsiveness — as the volume of feedback grows, an unanswered 75% of reviews
 a growing, not shrinking, support gap.
 
 Recommendation:
+
 Prioritize increasing the developer reply rate, starting with categories that combine
 high review volume and lower reply engagement, since this is the most directly
 actionable lever for improving merchant satisfaction. Given that review volume is
