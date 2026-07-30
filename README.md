@@ -1,5 +1,7 @@
 Analyst Memo — Shopify App Store Insights
+
 Dashboard: Shopify App Store Analysis
+
 
 Key Insight:
 
